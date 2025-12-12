@@ -8,4 +8,4 @@
 // No logic needed for simple page
 </script>
 
-php artisan make:controller StudentController
+
